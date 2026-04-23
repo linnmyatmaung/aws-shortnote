@@ -57,7 +57,6 @@ systemctl restart httpd
 
 ## Specific Contents
 
-- [Key Pair](./KeyPair.md)
 - [CIDR](./CIDR.md)
 - [Agent Forwarding](./Agent-Forwarding.md)
 
