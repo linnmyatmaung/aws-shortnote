@@ -29,6 +29,13 @@
 Client -> SSH (remote access) -> Security Group -> Server
 ```
 
+# Key Pair
+ Use Putty.
+- **Private key**: Downloaded as a `.pem` file from ec2 
+- **Public key**: Stored by AWS and placed on the EC2 instance
+- **PuTTY access flow**: Public IP -> PuTTY -> `.ppk` credential
+
+
 # Apache Server
 
 Useful commands for installing and managing Apache (`httpd`) on Amazon Linux:
