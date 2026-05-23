@@ -57,8 +57,8 @@ systemctl restart httpd
 
 ## Specific Contents
 
-- [CIDR](./CIDR.md)
-- [Agent Forwarding](./Agent-Forwarding.md)
--  [EBS](./EBS.md)
+- [CIDR](./Notes/CIDR.md)
+- [Agent Forwarding](./Notes/Agent-Forwarding.md)
+-  [EBS](./Notes/EBS.md)
 
 
