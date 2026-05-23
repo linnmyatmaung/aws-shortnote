@@ -14,3 +14,7 @@
    - Route table name: `Private_Route`
    - Subnet association: `172.31.48.0/20`
 3. Create 2 instances
+
+## NAT Gateway - Connecting Internet
+1. Create NAT Gateway with one public subnet(172.31.0.0/20) allocate elastic ip
+2. Route table->edit route->destination(0.0.0.0/0),target(nat-)
